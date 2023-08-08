@@ -1,0 +1,9 @@
+.input {
+  padding: 10px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  min-width: 255px;
+}

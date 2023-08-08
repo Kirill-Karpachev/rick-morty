@@ -1,0 +1,23 @@
+.app {
+  max-width: 1280px;
+  min-width: 320px;
+  margin: 0 auto;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+.incorrect {
+  text-align: center;
+}
+
+.observer {
+  height: 1px;
+}
